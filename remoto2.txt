@@ -1,2 +1,3 @@
 este es mi archivo 2 desde mi repo remoto
+cambio de desarrollador 2
 cambio desarrallador 1
